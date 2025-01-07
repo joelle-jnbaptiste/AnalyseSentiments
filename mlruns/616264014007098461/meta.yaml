@@ -1,0 +1,6 @@
+artifact_location: file:///c:/Users/misss/Formation/Projets/AnalyseSentiments/mlruns/616264014007098461
+creation_time: 1736180902613
+experiment_id: '616264014007098461'
+last_update_time: 1736180902613
+lifecycle_stage: active
+name: GridSearch TF-IDF + Logistic Regression

@@ -1,0 +1,6 @@
+artifact_location: file:///c:/Users/misss/Formation/Projets/AnalyseSentiments/mlruns/334531787401515131
+creation_time: 1736179824214
+experiment_id: '334531787401515131'
+last_update_time: 1736179824214
+lifecycle_stage: active
+name: TF-IDF + Logistic Regression

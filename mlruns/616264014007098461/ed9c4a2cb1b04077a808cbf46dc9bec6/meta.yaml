@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/misss/Formation/Projets/AnalyseSentiments/mlruns/616264014007098461/ed9c4a2cb1b04077a808cbf46dc9bec6/artifacts
+end_time: 1736183861980
+entry_point_name: ''
+experiment_id: '616264014007098461'
+lifecycle_stage: active
+run_id: ed9c4a2cb1b04077a808cbf46dc9bec6
+run_name: Run_12
+run_uuid: ed9c4a2cb1b04077a808cbf46dc9bec6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736183858473
+status: 3
+tags: []
+user_id: misss
